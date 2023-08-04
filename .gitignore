@@ -56,3 +56,5 @@ docs/_build/
 # CSVs/pdf
 *.pdf
 *.csv
+*.png
+*.svg
